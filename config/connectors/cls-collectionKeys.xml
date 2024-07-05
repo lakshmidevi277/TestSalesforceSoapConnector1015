@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ccs:sf_basic_queryAccounts" connectorServiceName="ccs:sf_basic_queryAccounts"/>
+            <keyDetails collectionKey="ccs:sf_jwt_queryAccounts" connectorServiceName="ccs:sf_jwt_queryAccounts"/>
+            <keyDetails collectionKey="ccs:sf_oauth_queryAccounts" connectorServiceName="ccs:sf_oauth_queryAccounts"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
